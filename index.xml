@@ -29,29 +29,20 @@
     
     <item>
       <title>1</title>
-      <link>/docs-copy/example-doc/chapter-1/</link>
+      <link>/comic/example-doc/chapter-1/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs-copy/example-doc/chapter-1/</guid>
+      <guid>/comic/example-doc/chapter-1/</guid>
       <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>1</title>
-      <link>/docs-copy/example-doc/nested-chapter/page-1/</link>
+      <link>/comic/example-doc/nested-chapter/page-1/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs-copy/example-doc/nested-chapter/page-1/</guid>
+      <guid>/comic/example-doc/nested-chapter/page-1/</guid>
       <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>/docs/example-doc/chapter-1/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/example-doc/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,29 +56,20 @@
     
     <item>
       <title>2</title>
-      <link>/docs-copy/example-doc/chapter-2/</link>
+      <link>/comic/example-doc/chapter-2/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs-copy/example-doc/chapter-2/</guid>
+      <guid>/comic/example-doc/chapter-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2</title>
-      <link>/docs-copy/example-doc/nested-chapter/page-2/</link>
+      <link>/comic/example-doc/nested-chapter/page-2/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs-copy/example-doc/nested-chapter/page-2/</guid>
+      <guid>/comic/example-doc/nested-chapter/page-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>/docs/example-doc/chapter-2/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/example-doc/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -133,6 +115,24 @@
       
       <guid>/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>/docs/example-doc/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>/docs/example-doc/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
     </item>
     
   </channel>
