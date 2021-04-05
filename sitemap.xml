@@ -20,25 +20,25 @@
     <loc>/posts/math-support/</loc>
     <lastmod>2020-11-20T22:52:56+08:00</lastmod>
   </url><url>
-    <loc>/comic/example-doc/chapter-1/</loc>
+    <loc>/s/example-doc/chapter-1/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comic/example-doc/nested-chapter/page-1/</loc>
+    <loc>/s/example-doc/nested-chapter/page-1/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comic/example-doc/chapter-2/</loc>
+    <loc>/s/example-doc/chapter-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comic/example-doc/nested-chapter/page-2/</loc>
+    <loc>/s/example-doc/nested-chapter/page-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comic/example-doc/</loc>
+    <loc>/s/example-doc/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comic/example-doc/nested-chapter/</loc>
+    <loc>/s/example-doc/nested-chapter/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comic/</loc>
+    <loc>/s/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -94,6 +94,8 @@
   </url><url>
     <loc>/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/homepage/</loc>
   </url><url>
     <loc>/docs/example-doc/1/</loc>
   </url><url>
